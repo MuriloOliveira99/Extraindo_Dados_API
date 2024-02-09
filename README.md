@@ -1,4 +1,4 @@
-# Extraindo Dados das APIs
+# Extraindo Dados das APIs (Cognitive Class)
 - RandomUser
   - O RandomUser é uma biblioteca para geração de dados aleatórios ficticios de usuário.
   - Para extrair dados do RandomUser, utilize a biblioteca randomuser.
